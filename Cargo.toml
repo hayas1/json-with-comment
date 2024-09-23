@@ -42,3 +42,4 @@ github = { repository = "hayas1/json-with-comments", workflow = "Master" }
 
 [features]
 preserve_order = ["indexmap"]
+raw_value = []
