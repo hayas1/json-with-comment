@@ -1,4 +1,4 @@
-<!-- Managed by terraform. https://github.com/hayas1/tfgh -->
+<!-- This template is managed by terraform. https://github.com/hayas1/tfgh -->
 
 ## Overview :rocket:
 > [Delete me] What is this pull request?
