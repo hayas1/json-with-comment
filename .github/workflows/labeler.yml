@@ -1,3 +1,5 @@
+# Managed by terraform. https://github.com/hayas1/tfgh
+
 name: Pull Request Labeler
 on:
 - pull_request_target
