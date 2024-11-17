@@ -1,18 +1,20 @@
-# Expectation :butterfly:
-> What behavior is expected?
+<!-- Managed by terraform. https://github.com/hayas1/tfgh -->
 
-# Reality :bug:
-> How does it actually work?
+## Expectation :butterfly:
+> [Delete me] What behavior is expected?
 
-# Environment :evergreen_tree:
-> (When and) Where the behavior was observed?
+## Reality :bug:
+> [Delete me] How does it actually work?
 
-# Cause :mag:
-> Why this issue was occurred?
+## Environment :evergreen_tree:
+> [Delete me] (When and) Where the behavior was observed?
 
-# Related :chains:
-> The list of related issues or pull requests
+## Cause :mag:
+> [Delete me] Why this issue was occurred?
 
-# Remark :eyes:
-> Any remarks
+## Related :chains:
+> [Delete me] The list of related issues or pull requests
+
+## Remark :eyes:
+> [Delete me] Any remarks
 
