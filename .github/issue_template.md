@@ -1,4 +1,4 @@
-<!-- Managed by terraform. https://github.com/hayas1/tfgh -->
+<!-- This template is managed by terraform. https://github.com/hayas1/tfgh -->
 
 ## Expectation :butterfly:
 > [Delete me] What behavior is expected?
